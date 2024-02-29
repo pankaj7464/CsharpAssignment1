@@ -1,0 +1,14 @@
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\bin\Debug\net8.0\EmployeeManagement.exe
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\bin\Debug\net8.0\EmployeeManagement.deps.json
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\bin\Debug\net8.0\EmployeeManagement.runtimeconfig.json
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\bin\Debug\net8.0\EmployeeManagement.dll
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\bin\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.AssemblyInfoInputs.cache
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.AssemblyInfo.cs
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.dll
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\refint\EmployeeManagement.dll
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.pdb
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\EmployeeManagement.genruntimeconfig.cache
+C:\Users\Pankaj Kushwaha\Desktop\angular workshop\AngularDotnetCRUDApp\CsharpAssignment1\obj\Debug\net8.0\ref\EmployeeManagement.dll
